@@ -1,4 +1,4 @@
-package com.appress.hello_rest;
+package com.quickpoll;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
